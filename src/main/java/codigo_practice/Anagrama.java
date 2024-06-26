@@ -16,6 +16,8 @@ public class Anagrama {
     public  static void main(String[] args) {
         System.out.println(isAnagram("amor", "roma"));
         System.out.println(isAnagram("casa", "roma"));
+        System.out.println(isAnagram("casa", "SACA"));
+
     }
 
     private static boolean isAnagram(String wordOne, String wordTwo) {

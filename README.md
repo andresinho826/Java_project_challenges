@@ -8,7 +8,6 @@ Website:   https://retosdeprogramacion.com/ejercicios
 
 1ro: el primer ejercicio es el famoso fizz buzz
 2do: anagrama
-
-
+3ro: fibonaci
 
 
