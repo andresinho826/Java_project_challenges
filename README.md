@@ -9,5 +9,4 @@ Website:   https://retosdeprogramacion.com/ejercicios
 1ro: el primer ejercicio es el famoso fizz buzz
 2do: anagrama
 3ro: fibonaci
-
-
+4to: numeros primos de 1 al 100 (2 posibles soluciones --numerosPrimoOne---NumeroPrimoTwo)
