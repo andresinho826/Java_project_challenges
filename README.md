@@ -10,3 +10,4 @@ Website:   https://retosdeprogramacion.com/ejercicios
 2do: anagrama
 3ro: fibonaci
 4to: numeros primos de 1 al 100 (2 posibles soluciones --numerosPrimoOne---NumeroPrimoTwo)
+#5: calcular area de un poligono
