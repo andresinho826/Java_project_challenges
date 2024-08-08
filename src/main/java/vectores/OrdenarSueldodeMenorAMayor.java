@@ -3,7 +3,7 @@ package vectores;
 import java.util.Scanner;
 
 //Se debe crear un vector donde almacenar 5 sueldos. Ordenar el vector sueldos de menor a mayor.
-public class OrenarSueldodeMenorAMayor {
+public class OrdenarSueldodeMenorAMayor {
 
     private static Scanner teclado;
     private  static int[] sueldos;
