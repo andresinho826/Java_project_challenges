@@ -18,3 +18,4 @@ package = codigo_practice
 package = codigo_practice_dos
 
 #7: invirtiendo cadenas
+#8: contando palabras
