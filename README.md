@@ -19,3 +19,4 @@ package = codigo_practice_dos
 
 #7: invirtiendo cadenas
 #8: contando palabras
+#9: decimal a binario

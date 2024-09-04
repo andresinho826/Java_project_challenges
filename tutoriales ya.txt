@@ -3,9 +3,11 @@ package = vectores
 
 12 agosto ->  continuar aqui...
 22 - Estructura de datos tipo matriz
-https://www.tutorialesprogramacionya.com/javaya/detalleconcepto.php?punto=24&codigo=97&inicio=20
+https://www.tutorialesprogramacionya.com/javaya/detalleconcepto.php?punto=26&codigo=99&inicio=20
 
 package = matrices
 
 23 - Matrices (cantidad de filas y columnas)
 24 - Matrices y vectores paralelos
+25 - Matrices irregulares
+26 - Constructor de la clase
