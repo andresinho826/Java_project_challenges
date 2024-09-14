@@ -12,4 +12,5 @@ package = matrices
 25 - Matrices irregulares
 26 - Constructor de la clase
 27 - Clase String
-28 - Colaboración de clases
+28 - Colaboración de clases -> ejemplo de simulacion de banco y clientes ( depositos y retiros)
+29 - Herencia
